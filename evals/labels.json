@@ -1,0 +1,72 @@
+[
+  {
+    "ticket_id": "T001",
+    "category": "bug",
+    "priority": "high",
+    "suggested_action": "human_review",
+    "notes": "Repro after deploy; ops-blocking — needs engineering"
+  },
+  {
+    "ticket_id": "T002",
+    "category": "billing",
+    "priority": "high",
+    "suggested_action": "human_review",
+    "notes": "Duplicate charge / refund — never auto-reply with money movement"
+  },
+  {
+    "ticket_id": "T003",
+    "category": "feature_request",
+    "priority": "low",
+    "suggested_action": "human_review",
+    "notes": "Product backlog item; acknowledge but no FAQ answer"
+  },
+  {
+    "ticket_id": "T004",
+    "category": "question",
+    "priority": "medium",
+    "suggested_action": "draft_reply",
+    "notes": "Simple how-to; draft can point to reset/SSO paths"
+  },
+  {
+    "ticket_id": "T005",
+    "category": "bug",
+    "priority": "critical",
+    "suggested_action": "human_review",
+    "notes": "API 500 with go-live tomorrow"
+  },
+  {
+    "ticket_id": "T008",
+    "category": "question",
+    "priority": "medium",
+    "suggested_action": "draft_reply",
+    "notes": "Policy FAQ; safe to draft pointer to trust/security page"
+  },
+  {
+    "ticket_id": "T009",
+    "category": "bug",
+    "priority": "critical",
+    "suggested_action": "human_review",
+    "notes": "SSO outage for whole tenant"
+  },
+  {
+    "ticket_id": "T012",
+    "category": "other",
+    "priority": "critical",
+    "suggested_action": "human_review",
+    "notes": "Possible phishing / security — escalate immediately"
+  },
+  {
+    "ticket_id": "T017",
+    "category": "question",
+    "priority": "low",
+    "suggested_action": "draft_reply",
+    "notes": "Docs/how-to for API key rotation"
+  },
+  {
+    "ticket_id": "T029",
+    "category": "other",
+    "priority": "low",
+    "suggested_action": "draft_reply",
+    "notes": "Praise / no action; short thank-you draft is fine"
+  }
+]
